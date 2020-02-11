@@ -5,8 +5,8 @@ namespace GustavoSantarosa\DataConverter;
  /**
  * Classe designada a converssão de dados para automatizar as views
  * 
- * @package DataConverter
  * @author Luis Gustavo Santarosa Pinto
+ * @package GustavoSantarosa\DataConverter
  * @version 1.0
  * 
  * Diretório Pai - lib
