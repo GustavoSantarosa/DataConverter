@@ -4,7 +4,7 @@
     "type":"library",
     "version": "1.0",
     "minimum-stability": "stable",
-    "license":"",
+    "license":"MIT",
     "authors": [
         {
             "name": "Luis Gustavo Santarosa Pinto",
