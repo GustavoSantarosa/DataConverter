@@ -3,8 +3,8 @@
     "description": "Conversores para automatizar as views",
     "type":"library",
     "version": "1.0",
-    
-    "license": "MIT",
+    "minimum-stability": "stable",
+    "license":"",
     "authors": [
         {
             "name": "Luis Gustavo Santarosa Pinto",
@@ -15,7 +15,6 @@
     "require": {
         "php":">7.2"
     },
-    "minimum-stability": "stable",
     "autoload":{
         "psr-4":{
             "src\\": "src"
