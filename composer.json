@@ -19,7 +19,10 @@
     "autoload":{
         "psr-4":{
             "src\\": "src"
-        }
+        },
+        "files": [
+            "src/DataConverters.php"
+        ]
     },
     "config": {
         "vendor-dir": "vendor"
