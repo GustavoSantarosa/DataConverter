@@ -1,5 +1,14 @@
 <?php 
-
+ /**
+ * Classe designada a converssão de dados para automatizar as views
+ * 
+ * @package DataConverter
+ * @author Luis Gustavo Santarosa Pinto
+ * @version 1.0
+ * 
+ * Diretório Pai - lib
+ * Arquivo - DataConverter.php
+ */
 class DataConverter{
 	/**
     * Retorna a hora atual

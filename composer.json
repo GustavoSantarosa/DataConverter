@@ -18,11 +18,8 @@
     "minimum-stability": "stable",
     "autoload":{
         "psr-4":{
-            "Source\\dataConverters\\": "source/dataConverters/"
-        },
-        "files": [
-            "source/Config.php"
-        ]
+            "src\\": "src"
+        }
     },
     "config": {
         "vendor-dir": "vendor"
