@@ -1,4 +1,7 @@
 <?php 
+
+namespace GustavoSantarosa\DataConverter;
+
  /**
  * Classe designada a converssão de dados para automatizar as views
  * 
@@ -9,6 +12,7 @@
  * Diretório Pai - lib
  * Arquivo - DataConverter.php
  */
+
 class DataConverter{
 	/**
     * Retorna a hora atual
