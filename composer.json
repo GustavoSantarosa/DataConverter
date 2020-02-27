@@ -1,11 +1,11 @@
 {
-    "name": "gustavo-santarosa/data-converters",
+    "name": "gustavo-santarosa/converter",
     "description": "Conversores para automatizar as views",
     "keywords": [
         "GustavoSantarosa",
         "Bolota",
-        "converter",
-        "dataConverter"
+        "conversor",
+        "Converter"
       ],
     "homepage":"http://www.gustavosantarosa.esy.es/",
     "license":"MIT",
@@ -21,7 +21,7 @@
     },
     "autoload":{
         "psr-4":{
-            "GustavoSantarosa\\dataConverter\\": "src"
+            "GustavoSantarosa\\Converter\\": "src"
         }
     },
     "extra": {

@@ -1,7 +1,6 @@
 <?php 
 
-namespace GustavoSantarosa\DataConverter;
-
+namespace GustavoSantarosa\Converter;
  /**
  * Classe designada a converssão de dados para automatizar as views
  * 
@@ -13,7 +12,7 @@ namespace GustavoSantarosa\DataConverter;
  * Arquivo - DataConverter.php
  */
 
-class DataConverter{
+class Converter{
 	/**
     * Retorna a hora atual
     * @param mixed $tipo
